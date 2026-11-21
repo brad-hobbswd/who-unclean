@@ -155,3 +155,8 @@ footer a{color:var(--gold-light)}
   .legal-page::before{margin-bottom:25px}
   .legal-page h2{margin-top:30px}
 }
+
+/* Scripture passages within chapter readings */
+.scripture-quote{margin:30px 0;padding:24px 26px;background:linear-gradient(145deg,rgba(66,48,32,.72),rgba(36,26,18,.92));border-left:3px solid var(--gold-light);border-top:1px solid rgba(201,154,66,.22);border-bottom:1px solid rgba(201,154,66,.22);box-shadow:0 10px 28px rgba(0,0,0,.24);font-size:.96em;line-height:1.85;color:var(--text)}
+.scripture-quote p{margin:0 0 .65em!important}.scripture-quote p:last-of-type{margin-bottom:0!important}.scripture-quote .scripture-reference{display:block;margin-top:16px;color:var(--gold-light);font:600 12px var(--ui-font);letter-spacing:.08em;text-transform:uppercase}
+@media(max-width:480px){.scripture-quote{padding:19px 18px;margin:24px 0}}
