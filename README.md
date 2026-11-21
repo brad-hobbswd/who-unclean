@@ -8,7 +8,7 @@ Website: [https://brad-hobbswd.github.io/who-unclean/](https://brad-hobbswd.gith
 
 *Who Are You to Call Unclean? When God Has Made It Holy* explores the tension between religious tradition, human judgment, compassion, and the work of God. Through Scripture and reflection, the book invites readers to examine the assumptions they carry, the labels they place upon others, and the humility required when God challenges our understanding.
 
-The book's central Scripture is Acts 10:15 (KJV):
+The book's central Scripture is Acts 10:15:
 
 > What God hath cleansed, that call not thou common.
 
